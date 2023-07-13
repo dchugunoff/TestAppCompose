@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TestAppCompose</string>
+    <string name="close">Закрыть</string>
+    <string name="name">Имя</string>
+    <string name="age">Возраст</string>
+    <string name="next_view_btn">Вторая View</string>
 </resources>
